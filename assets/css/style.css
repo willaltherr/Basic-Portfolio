@@ -1,0 +1,72 @@
+header {
+    background-color: grey;
+    color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+h5 {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+nav {
+    text-align: center;
+    border: 2px solid black;
+}
+
+h2 {
+    background-color: blueviolet;
+}
+
+
+h3 {
+    background-color: brown;
+    margin-left: 10px;
+}
+
+li {
+    background-color: chartreuse;
+}
+
+ul {
+    background-color: chartreuse;
+}
+
+aside {
+    background-color: coral;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.experience {
+    background-color: grey;
+    border: 2px solid black;
+    width: 55%;
+    float: left;
+}
+
+.myself {
+    border: 2px solid black;
+    background-color: grey;
+    width: 44.2%;
+    float: left;
+    height: 451px;
+    overflow: hidden;
+}
+
+footer {
+    background-color: grey;
+    margin-bottom: 0;
+    padding: 5px;
+    clear: both;
+}
