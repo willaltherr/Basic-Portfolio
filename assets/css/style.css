@@ -126,3 +126,115 @@ hr {
     margin-top: 10px;
     border: 1px solid black;
 }
+
+#portfolio {
+    background: rgba(128, 128, 128, 0.699);
+    margin: auto;
+    width: 960px;
+    margin-top: 20px;
+    padding: 10px 0 25px 0;
+}
+
+#sport {
+    margin-left: 20px;
+    width: 175px;
+    margin-top: 10px;
+}
+
+#sport_label {
+    margin-left: 20px;
+    width: 175px;
+    color: white;
+    background: brown;
+    text-align: center;
+    padding: 6px 0 6px 0;
+    position: absolute;
+    top: 270px;
+}
+
+#city {
+    margin-left: 20px;
+    width: 175px;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+#city_label {
+    margin-left: 20px;
+    width: 175px;
+    color: white;
+    background: brown;
+    text-align: center;
+    padding: 6px 0 6px 0;
+    position: absolute;
+    top: 270px;
+    left: 478.5px;
+}
+
+#animal {
+    margin-left: 20px;
+    width: 175px;
+    margin-top: 10px;
+}
+
+#animal_label {
+    margin-left: 20px;
+    width: 175px;
+    color: white;
+    background: brown;
+    text-align: center;
+    padding: 6px 0 6px 0;
+    position: absolute;
+    top: 445px;
+}
+
+#food {
+    margin-left: 20px;
+    width: 175px;
+    margin-top: 10px;
+}
+
+#food_label {
+    margin-left: 20px;
+    width: 175px;
+    color: white;
+    background: brown;
+    text-align: center;
+    padding: 6px 0 6px 0;
+    position: absolute;
+    top: 445px;
+    left: 478.5px;
+}
+
+#nature {
+    margin-left: 20px;
+    width: 175px;
+    margin-top: 10px;
+}
+
+#nature_label {
+    margin-left: 20px;
+    width: 175px;
+    color: white;    
+    background: brown;
+    text-align: center;
+    padding: 6px 0 6px 0;
+    position: absolute;
+    top: 615px;
+}
+
+#portfolio2 {
+    margin-left: 20px;
+    color: brown;
+}
+
+#footer_portfolio {
+    background: rgba(128, 128, 128, 0.699);
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+    margin-top: 70px;
+}
