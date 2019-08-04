@@ -1,72 +1,83 @@
+body{
+    margin: 0%;
+}
+
 header {
-    background-color: grey;
+    background: rgba(128, 128, 128, 0.699);
+    padding: 20px;
+    border-bottom: 1px solid grey;
+}
+
+.absolute {
+    text-align: left;
+    width: 150px;
+    position: absolute;
+    top: 0px;
+    left: 286px;
+    padding: 16.5px;
+    background: brown;
     color: white;
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 2px solid black;
+    font-size: 24px;
 }
 
-h1 {
-    text-align: center;
+.navigation {
+    margin: auto;
+    width: 960px;
+    font-size: 18px;
+    text-align: right;
 }
 
+#about {
+    background: rgba(128, 128, 128, 0.699);
+    margin: auto;
+    width: 960px;
+    margin-top: 20px;
+    padding: 5px 0;
+}
 
+#mehead {
+    margin-left: 20px;
+    color: brown;
+}
 
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
-h5 {
+#profile {
+    margin-left: 20px;
+    width: 200px;
+    float: left;
+    padding-top: 15px;
+}
+
+#firstp {
+    margin-left: 225px;
+    font-size: 18px;
+    width: 675px;
+    padding: 5px 20px 0 20px;
+}
+
+#secondp {
+    margin-right: 20px;
+    font-size: 18px;
+    width: 925px;
+    padding: 15px 20px 0 20px;
+}
+
+#thirdp {
+    margin-right: 20px;
+    font-size: 18px;
+    width: 925px;
+    padding: 10px 20px 0 20px;
+}
+
+.footer {
+    background: rgba(128, 128, 128, 0.699);
     color: white;
     text-align: center;
-    font-size: 15px;
-}
-
-nav {
-    text-align: center;
-    border: 2px solid black;
-}
-
-h2 {
-    background-color: blueviolet;
-}
-
-
-h3 {
-    background-color: brown;
-    margin-left: 10px;
-}
-
-li {
-    background-color: chartreuse;
-}
-
-ul {
-    background-color: chartreuse;
-}
-
-aside {
-    background-color: coral;
-    margin: 10px;
-    font-size: 30px;
-}
-
-.experience {
-    background-color: grey;
-    border: 2px solid black;
-    width: 55%;
-    float: left;
-}
-
-.myself {
-    border: 2px solid black;
-    background-color: grey;
-    width: 44.2%;
-    float: left;
-    height: 451px;
-    overflow: hidden;
-}
-
-footer {
-    background-color: grey;
-    margin-bottom: 0;
-    padding: 5px;
-    clear: both;
+    font-size: 14px;
+    padding: 20px;
+    margin-top: 90px;
 }
