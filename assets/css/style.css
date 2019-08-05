@@ -1,5 +1,6 @@
 body{
     margin: 0%;
+    background-image: url("../images/gravel.png");
 }
 
 header {
@@ -132,7 +133,7 @@ hr {
     margin: auto;
     width: 960px;
     margin-top: 20px;
-    padding: 10px 0 25px 0;
+    padding: 5px 0;
 }
 
 #sport {
