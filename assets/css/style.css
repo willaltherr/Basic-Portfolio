@@ -1,6 +1,7 @@
 body{
     margin: 0%;
     background-image: url("../images/gravel.png");
+    font-family: 'arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 header {
@@ -26,6 +27,14 @@ header {
     width: 960px;
     font-size: 18px;
     text-align: right;
+}
+
+a {
+    color: brown;
+}
+
+a:hover {
+    color: white;
 }
 
 #about {
