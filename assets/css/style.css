@@ -142,13 +142,14 @@ hr {
     margin: auto;
     width: 960px;
     margin-top: 20px;
-    padding: 5px 0;
+    padding: 5px 0 500px 0;
 }
 
 #sport {
     margin-left: 20px;
     width: 175px;
     margin-top: 10px;
+    float: left;
 }
 
 #sport_label {
@@ -167,6 +168,7 @@ hr {
     width: 175px;
     margin-top: 10px;
     margin-right: 100px;
+    float: left;
 }
 
 #city_label {
@@ -178,13 +180,15 @@ hr {
     padding: 6px 0 6px 0;
     position: absolute;
     top: 270px;
-    left: 478.5px;
+    left: 474.5px;
 }
 
 #animal {
     margin-left: 20px;
     width: 175px;
     margin-top: 10px;
+    clear: both;
+    float: left;
 }
 
 #animal_label {
@@ -202,6 +206,7 @@ hr {
     margin-left: 20px;
     width: 175px;
     margin-top: 10px;
+    float: left;
 }
 
 #food_label {
@@ -213,13 +218,15 @@ hr {
     padding: 6px 0 6px 0;
     position: absolute;
     top: 445px;
-    left: 478.5px;
+    left: 474.5px;
 }
 
 #nature {
     margin-left: 20px;
     width: 175px;
     margin-top: 10px;
+    clear: both;
+    float: left;
 }
 
 #nature_label {
